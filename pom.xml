@@ -5,7 +5,7 @@
 
     <groupId>com.cisco.services</groupId>
     <artifactId>sample-spring-boot-app</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
